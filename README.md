@@ -1,5 +1,7 @@
 CLINIC QUEUE SYSTEM
 
+**Version:** 1.0.0 — Final Submission
+
 The Clinic Queue System is a web-based application that allows patients to register, receive queue numbers, and check their queue status.
 
 Clinic staff can manage the waiting list by calling the next patient, completing patients, and skipping patients.
