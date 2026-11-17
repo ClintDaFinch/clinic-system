@@ -1,0 +1,68 @@
+CLINIC QUEUE SYSTEM
+VS CODE EXTENSION REPORT
+
+1. ERROR LENS
+
+Purpose:
+Error Lens displays errors and warnings beside the code where they occur.
+
+How it helped:
+It made PHP, JavaScript, and syntax errors easier to identify.
+
+Limitation:
+Too many warnings can make the editor look crowded.
+
+2. ESLINT
+
+Purpose:
+ESLint checks JavaScript code for syntax and coding-style problems.
+
+How it helped:
+It helped identify JavaScript errors and improve code quality.
+
+Limitation:
+It may require configuration before it works correctly.
+
+3. LIVE SERVER
+
+Purpose:
+Live Server opens web pages in a local browser and automatically reloads changes.
+
+How it helped:
+It allowed the interface to be previewed while editing HTML, CSS, and JavaScript.
+
+Limitation:
+Live Server does not process PHP by itself. PHP pages require XAMPP.
+
+4. PRETTIER
+
+Purpose:
+Prettier automatically formats code.
+
+How it helped:
+It improved the readability and consistency of HTML, CSS, and JavaScript files.
+
+Limitation:
+It may change the formatting style of existing code.
+
+5. PHP INTELLISENSE
+
+Purpose:
+PHP IntelliSense provides PHP suggestions, code completion, and syntax support.
+
+How it helped:
+It helped identify PHP functions, variables, and possible errors.
+
+Limitation:
+Some advanced PHP features may require additional configuration.
+
+6. CODE RUNNER
+
+Purpose:
+Code Runner allows supported code files to be executed quickly.
+
+How it helped:
+It helped during development and testing of supported files.
+
+Limitation:
+It does not replace XAMPP when running PHP and MySQL applications.

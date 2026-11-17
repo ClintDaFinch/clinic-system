@@ -1,0 +1,59 @@
+CLINIC QUEUE SYSTEM
+QUALITY REPORT
+
+1. OVERVIEW
+
+The Clinic Queue System was tested to verify that its major features work correctly and meet the project requirements.
+
+2. FUNCTIONALITY
+
+The system successfully supports:
+
+- Patient registration
+- Queue-number generation
+- Queue-status display
+- Patient status checking
+- Calling the next patient
+- Completing patients
+- Skipping patients
+- Weather API integration
+
+Result: PASSED
+
+3. USABILITY
+
+The system uses clear labels, readable buttons, organized pages, understandable messages, and a simple navigation bar.
+
+Result: PASSED
+
+4. RELIABILITY
+
+Patient records were saved correctly and queue statuses were updated during testing.
+
+Result: PASSED
+
+5. ERROR HANDLING
+
+The system displayed messages for invalid input, invalid queue numbers, database problems, and API problems.
+
+Result: PASSED
+
+6. RESPONSIVE DESIGN
+
+The interface remained usable on desktop and smaller screen sizes.
+
+Result: PASSED
+
+7. MAINTAINABILITY
+
+The project uses separate folders for APIs, configuration, database files, models, assets, and web pages.
+
+Result: PASSED
+
+8. DEFECTS FOUND
+
+No major defects remained after testing.
+
+9. FINAL QUALITY RESULT
+
+All planned tests passed. The application is ready for final demonstration and submission after the remaining GitHub, presentation, and documentation requirements are completed.
