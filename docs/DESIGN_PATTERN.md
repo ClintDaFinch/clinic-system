@@ -51,3 +51,6 @@ public function getNextWaitingPatient(): ?array
     $patient = $result->fetch_assoc();
     return $patient ?: null;
 }
+
+### Repository Pattern verification
+- All SQL lives in models/Patient.php (verified by inspection)
