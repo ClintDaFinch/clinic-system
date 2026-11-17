@@ -42,5 +42,10 @@ See:
 - GitHub Issues and Pull Requests tabs — issue and PR tracking
 - GitHub Releases page — `v1.0.0` tag
 
+ feature/queue-logic-integration
+## Branch: feature/queue-logic-integration
+_Owner: Member 4 — queue logic and integration._
+=======
 ## Branch: feature/database-queue-status
 _Owner: Kim — database and queue-status data._
+ main
