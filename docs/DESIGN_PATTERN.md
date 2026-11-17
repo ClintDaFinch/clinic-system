@@ -50,6 +50,7 @@ public function getNextWaitingPatient(): ?array
     $patient = $result->fetch_assoc();
     return $patient ?: null;
 }
+feature/weather-api-security
 ```
 
 ### Controller using it
@@ -91,3 +92,8 @@ Screenshots in `evidence/testing/`.
 ### Repository Pattern verification
 
 - All SQL lives in `models/Patient.php` (verified by inspection)
+=======
+
+### Repository Pattern verification
+- All SQL lives in models/Patient.php (verified by inspection)
+main

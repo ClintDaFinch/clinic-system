@@ -44,3 +44,6 @@ PHP + MySQL + plain JS and a feature-branch Git workflow."
 ## 7. Wrap-up (30 sec)
 - Recap: working app, all requirements met, repo with history
 - Q&A
+
+## Responsive check
+Layouts verified at 320px, 768px, 1280px.
