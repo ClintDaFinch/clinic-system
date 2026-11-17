@@ -102,3 +102,4 @@ getDatabaseConnection() ◄── used by ── Patient
 | 5 minutes/patient estimate | Simple, tunable via method param |
 | Status ENUM in schema | DB-level correctness guarantee |
 | Weather via server-side proxy | Hides API config; normalizes errors |
+| Mobile layout | Single-column form under 680px |
